@@ -1,3 +1,3 @@
 # Coaching Site
 
-Coaching Site, get to see the we
+Coaching Site, get to see the prfessional coaching website.
